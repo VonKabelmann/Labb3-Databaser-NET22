@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "63c90cf4a60932225bbb5ca6"
+  },
+  "ProductName": "Milk",
+  "Price": 12.49
+},{
+  "_id": {
+    "$oid": "63c90d10a60932225bbb5ca7"
+  },
+  "ProductName": "Eggs",
+  "Price": 16.99
+},{
+  "_id": {
+    "$oid": "63c90d25a60932225bbb5ca8"
+  },
+  "ProductName": "Cucumber",
+  "Price": 11.49
+},{
+  "_id": {
+    "$oid": "63c90d3ea60932225bbb5ca9"
+  },
+  "ProductName": "Red Bull",
+  "Price": 13.37
+},{
+  "_id": {
+    "$oid": "63c954a1672d199281c6299a"
+  },
+  "ProductName": "Carrot",
+  "Price": 9.99
+},{
+  "_id": {
+    "$oid": "63c958256d05c5fec36404da"
+  },
+  "ProductName": "Lamp Oil",
+  "Price": 34.99
+},{
+  "_id": {
+    "$oid": "63c958326d05c5fec36404db"
+  },
+  "ProductName": "Big Round Bomb",
+  "Price": 49.49
+},{
+  "_id": {
+    "$oid": "63c9585c6d05c5fec36404dc"
+  },
+  "ProductName": "Length of Rope",
+  "Price": 19.95
+},{
+  "_id": {
+    "$oid": "63c958756d05c5fec36404dd"
+  },
+  "ProductName": "Snake Oil",
+  "Price": 59.99
+},{
+  "_id": {
+    "$oid": "63c9588d6d05c5fec36404de"
+  },
+  "ProductName": "Milk of The Poppy",
+  "Price": 13.99
+},{
+  "_id": {
+    "$oid": "63c958976d05c5fec36404df"
+  },
+  "ProductName": "Longclaw",
+  "Price": 499.99
+},{
+  "_id": {
+    "$oid": "63c958ac6d05c5fec36404e0"
+  },
+  "ProductName": "Glass Candle",
+  "Price": 79.99
+},{
+  "_id": {
+    "$oid": "63c958c86d05c5fec36404e1"
+  },
+  "ProductName": "Ice",
+  "Price": 799.99
+},{
+  "_id": {
+    "$oid": "63c958ee6d05c5fec36404e2"
+  },
+  "ProductName": "Widow's Wail",
+  "Price": 249.99
+},{
+  "_id": {
+    "$oid": "63c959016d05c5fec36404e3"
+  },
+  "ProductName": "Oathkeeper",
+  "Price": 549.99
+},{
+  "_id": {
+    "$oid": "63c959216d05c5fec36404e4"
+  },
+  "ProductName": "Vial of Wildfire",
+  "Price": 29.99
+},{
+  "_id": {
+    "$oid": "63c959366d05c5fec36404e5"
+  },
+  "ProductName": "Moon Tea",
+  "Price": 19.99
+},{
+  "_id": {
+    "$oid": "63c959876d05c5fec36404e6"
+  },
+  "ProductName": "The Horn of Winter",
+  "Price": 1499.99
+}]

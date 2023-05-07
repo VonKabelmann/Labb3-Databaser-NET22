@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "63c83eec7b0054c5640c6243"
+  },
+  "ShopName": "Leila's Livs",
+  "ProductStock": [
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c90d10a60932225bbb5ca7"
+        },
+        "ProductName": "Eggs",
+        "Price": 16.99
+      },
+      "Amount": 11
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c954a1672d199281c6299a"
+        },
+        "ProductName": "Carrot",
+        "Price": 9.99
+      },
+      "Amount": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c83eed7b0054c5640c6244"
+  },
+  "ShopName": "Von Kabelmann's Bazaar",
+  "ProductStock": [
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c954a1672d199281c6299a"
+        },
+        "ProductName": "Carrot",
+        "Price": 9.99
+      },
+      "Amount": 10
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c958256d05c5fec36404da"
+        },
+        "ProductName": "Lamp Oil",
+        "Price": 34.99
+      },
+      "Amount": 16
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c958326d05c5fec36404db"
+        },
+        "ProductName": "Big Round Bomb",
+        "Price": 49.49
+      },
+      "Amount": 8
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c9585c6d05c5fec36404dc"
+        },
+        "ProductName": "Length of Rope",
+        "Price": 19.95
+      },
+      "Amount": 25
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c958756d05c5fec36404dd"
+        },
+        "ProductName": "Snake Oil",
+        "Price": 59.99
+      },
+      "Amount": 25
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c83eed7b0054c5640c6245"
+  },
+  "ShopName": "A Shop of Ice and Fire",
+  "ProductStock": [
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c958976d05c5fec36404df"
+        },
+        "ProductName": "Longclaw",
+        "Price": 499.99
+      },
+      "Amount": 1
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c9588d6d05c5fec36404de"
+        },
+        "ProductName": "Milk of The Poppy",
+        "Price": 13.99
+      },
+      "Amount": 22
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c958ac6d05c5fec36404e0"
+        },
+        "ProductName": "Glass Candle",
+        "Price": 79.99
+      },
+      "Amount": 10
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c958ee6d05c5fec36404e2"
+        },
+        "ProductName": "Widow's Wail",
+        "Price": 249.99
+      },
+      "Amount": 1
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c959016d05c5fec36404e3"
+        },
+        "ProductName": "Oathkeeper",
+        "Price": 549.99
+      },
+      "Amount": 1
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c959216d05c5fec36404e4"
+        },
+        "ProductName": "Vial of Wildfire",
+        "Price": 29.99
+      },
+      "Amount": 18
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c959366d05c5fec36404e5"
+        },
+        "ProductName": "Moon Tea",
+        "Price": 19.99
+      },
+      "Amount": 25
+    },
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c959876d05c5fec36404e6"
+        },
+        "ProductName": "The Horn of Winter",
+        "Price": 1499.99
+      },
+      "Amount": 1
+    }
+  ]
+}]

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Databaser Labb 3 - Pontus", "Databaser Labb 3 - Pontus\Databaser Labb 3 - Pontus.csproj", "{2A769CAA-B7F3-4A2A-A325-3C3192155AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "ClassLibrary1\DataAccess.csproj", "{07280343-C7D0-45F3-B900-3F64D28AD248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A769CAA-B7F3-4A2A-A325-3C3192155AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A769CAA-B7F3-4A2A-A325-3C3192155AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A769CAA-B7F3-4A2A-A325-3C3192155AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A769CAA-B7F3-4A2A-A325-3C3192155AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07280343-C7D0-45F3-B900-3F64D28AD248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07280343-C7D0-45F3-B900-3F64D28AD248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07280343-C7D0-45F3-B900-3F64D28AD248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07280343-C7D0-45F3-B900-3F64D28AD248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7746B693-912C-4C79-8605-833DEE3BB01C}
+	EndGlobalSection
+EndGlobal

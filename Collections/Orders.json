@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "63c94e54d25f76cb494c2f72"
+  },
+  "ShopId": {
+    "$oid": "63c83eec7b0054c5640c6243"
+  },
+  "UserId": {
+    "$oid": "63c90ca6a60932225bbb5ca5"
+  },
+  "ListOfProducts": [
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c90cf4a60932225bbb5ca6"
+        },
+        "ProductName": "Milk",
+        "Price": 12.49
+      },
+      "Amount": 6
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63c94f4e993e69e57efa2bd4"
+  },
+  "ShopId": {
+    "$oid": "63c83eec7b0054c5640c6243"
+  },
+  "UserId": {
+    "$oid": "63c801233417581a838d8c6c"
+  },
+  "ListOfProducts": [
+    {
+      "Product": {
+        "_id": {
+          "$oid": "63c90d10a60932225bbb5ca7"
+        },
+        "ProductName": "Eggs",
+        "Price": 16.99
+      },
+      "Amount": 5
+    }
+  ]
+}]

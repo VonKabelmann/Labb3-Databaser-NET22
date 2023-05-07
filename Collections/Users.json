@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63c801233417581a838d8c6c"
+  },
+  "UserName": "TestUser",
+  "Password": "test",
+  "ShoppingCart": []
+},{
+  "_id": {
+    "$oid": "63c90ca6a60932225bbb5ca5"
+  },
+  "UserName": "1",
+  "Password": "1",
+  "ShoppingCart": []
+},{
+  "_id": {
+    "$oid": "63c96881fe4a29baa5f72af0"
+  },
+  "UserName": "Niklas",
+  "Password": "ITHS",
+  "ShoppingCart": []
+},{
+  "_id": {
+    "$oid": "63c9689bfe4a29baa5f72af1"
+  },
+  "UserName": "VonKabelmann",
+  "Password": "KahootChamp2023",
+  "ShoppingCart": []
+}]

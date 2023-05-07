@@ -1,31 +1,12 @@
-# README!!!!
+# Labb3 Databaser .NET22
 
-I mappen Collections i roten av repot finns alla collections exporterade i .json format.
+This was a project done as part of the "Utveckling mot databas och databasadministration" course at IT-Högskolan.
 
-Användare 'Niklas' finns redan i Users med lösenord 'ITHS'. 
-Alternativt finns även UserName:'1' med Password:'1' för snabb inlogg.
+The task was to develop an application that communicates with a MongoDB database using MongoDb.Driver. The choice was to either create a console or a WPF application. I chose to create a WPF application because I enjoyed working with WPF in previous school projects and I had grown especially fond with working in WPF using the MVVM design pattern. 
 
-För att kunna upserta ProductContainers i en Shop behöver du markera 
-en Produkt ur ProductList samt INTE ha manipulerat datan i varken ProductStock eller
-ShoppingCart (från och med att du kommit in på shop menyn).
+The application connects to a MongoDB database locally on the users machine thus requiring the user to have a MongoDB server installed and running on their device. In the root folder of the project there is a folder called 'Collections' which contain JSON documents containing collections which you need to export into a local MongoDB database to get the most out of the application.
 
-Som vanligt ska du ha ett stort tack för all hjälp, Niklas!
-
-Hoppas att min kod kan imponera på dig litegrann iallafall!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The instructions given to us for the assignment were the following (in Swedish):
 
 # Labb 3 - Applikation med MongoDB Code First
 ## Utveckla en databasapp med MongoDB.Driver
